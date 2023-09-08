@@ -42,12 +42,10 @@ The results of the analysis will include:
 
 
 
-# Conclusion:
 ![image](https://github.com/Smeerel/Health-Data-Analysis/assets/143562418/de02c62a-cbec-45ac-ba2b-e020b1e52b7c)
 ![image](https://github.com/Smeerel/Health-Data-Analysis/assets/143562418/9eefedfb-daa3-44b8-bba1-2b83a3137576)
 
 
 
-# Recommendations:
 ![image](https://github.com/Smeerel/Health-Data-Analysis/assets/143562418/f78b5a1c-a16f-4f2d-8cd5-57ec19e77af8)
 
